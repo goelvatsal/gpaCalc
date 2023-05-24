@@ -20,7 +20,7 @@ func main() {
 	var cType []string
 	var pSlc []float64
 
-	fmt.Println(`usage: ["class name" "cp/honors/ap" "credits" "grade"]`)
+	fmt.Println(`usage: ["class name" "cp/h/ap" "credits" "grade"]`)
 	fmt.Println("after all classes have been entered, click enter twice.")
 	//fmt.Println("if a class is not cp/honors/ap, then don't add it in here!")
 	fmt.Println()
